@@ -65,6 +65,7 @@ int main() {
 }
 ```
 ## OUTPUT
+<img width="1401" height="693" alt="image" src="https://github.com/user-attachments/assets/9e42d725-b9b5-40af-98ca-fc665a28b5f5" />
 
 ## RESULT
 Thus,the program is verified successfully
